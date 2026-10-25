@@ -1,4 +1,4 @@
-# 💳 Credit Card Clustering – Basic K-Means Project
+# 💳 Credit Card Clustering – K-Means Project
 
 A beginner-friendly machine learning project that groups credit card customers by similar usage and payment behavior using **K-Means Clustering**.
 
