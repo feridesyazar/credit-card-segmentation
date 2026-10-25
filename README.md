@@ -15,7 +15,7 @@ A beginner-friendly machine learning project that groups credit card customers b
 - `PRC_FULL_PAYMENT` – proportion of full payments
 - `BALANCE_FREQUENCY` – how often a card balance is recorded
 
-- This is **unsupervised learning**: there is no target variable (`y`)
+  This is **unsupervised learning**: there is no target variable (`y`)
 
 ## Workflow
 
